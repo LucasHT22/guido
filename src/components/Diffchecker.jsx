@@ -32,7 +32,7 @@ function computeDiff(a, b) {
 
 const st = {
     //
-}
+};
 
 export default function Diffchecker() {
     const [left, setLeft] = useState("");

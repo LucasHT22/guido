@@ -109,7 +109,7 @@ function stats(s) {
 
 const st = {
     //
-}
+};
 
 export default function TextFormatter() {
     const [input, setInput] = useState("");
